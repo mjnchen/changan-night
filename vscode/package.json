@@ -1,0 +1,20 @@
+{
+  "name": "changan-night",
+  "displayName": "Chang'an Night",
+  "description": "A dark theme inspired by Tang Dynasty Chang'an at night.",
+  "version": "0.0.1",
+  "publisher": "mjnchen",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chang'an Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/changan-night-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+# Chang'an Night 长安夜 — Ghostty theme
+# See ../palette.md for the canonical palette and design rationale.
+
+palette = 0=#0d0e1a
+palette = 1=#c93f3f
+palette = 2=#5a8c4a
+palette = 3=#d4a23f
+palette = 4=#5a7aa8
+palette = 5=#a04a64
+palette = 6=#4a8c8c
+palette = 7=#bdb59d
+palette = 8=#3a3d4e
+palette = 9=#e85a4a
+palette = 10=#7dc26d
+palette = 11=#f4c860
+palette = 12=#7a9ad4
+palette = 13=#d48a9e
+palette = 14=#7ac0c0
+palette = 15=#f5efde
+
+background = #1a1d2e
+foreground = #e8e4d4
+cursor-color = #f4c860
+cursor-text = #1a1d2e
+selection-background = #262a3f
+selection-foreground = #e8e4d4
