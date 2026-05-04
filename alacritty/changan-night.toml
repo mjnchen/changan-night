@@ -1,0 +1,62 @@
+# Chang'an Night 长安夜 — Alacritty theme
+# See ../palette.md for the canonical palette and design rationale.
+
+[colors.primary]
+background = "#1a1d2e"
+foreground = "#e8e4d4"
+bright_foreground = "#f5efde"
+dim_foreground = "#bdb59d"
+
+[colors.cursor]
+text   = "#1a1d2e"
+cursor = "#f4c860"
+
+[colors.vi_mode_cursor]
+text   = "#1a1d2e"
+cursor = "#7a9ad4"
+
+[colors.selection]
+text       = "#e8e4d4"
+background = "#262a3f"
+
+[colors.search.matches]
+foreground = "#1a1d2e"
+background = "#d4a23f"
+
+[colors.search.focused_match]
+foreground = "#1a1d2e"
+background = "#f4c860"
+
+[colors.line_indicator]
+foreground = "#f4c860"
+background = "None"
+
+[colors.normal]
+black   = "#0d0e1a"
+red     = "#c93f3f"
+green   = "#5a8c4a"
+yellow  = "#d4a23f"
+blue    = "#5a7aa8"
+magenta = "#a04a64"
+cyan    = "#4a8c8c"
+white   = "#bdb59d"
+
+[colors.bright]
+black   = "#3a3d4e"
+red     = "#e85a4a"
+green   = "#7dc26d"
+yellow  = "#f4c860"
+blue    = "#7a9ad4"
+magenta = "#d48a9e"
+cyan    = "#7ac0c0"
+white   = "#f5efde"
+
+[colors.dim]
+black   = "#0d0e1a"
+red     = "#a03333"
+green   = "#46703a"
+yellow  = "#a88033"
+blue    = "#476186"
+magenta = "#7f3a4f"
+cyan    = "#3a7070"
+white   = "#9c947e"

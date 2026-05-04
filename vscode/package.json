@@ -1,13 +1,37 @@
 {
   "name": "changan-night",
   "displayName": "Chang'an Night",
-  "description": "A dark theme inspired by Tang Dynasty Chang'an at night.",
+  "description": "A dark theme inspired by Tang Dynasty Chang'an at night — ink-blue sky, lantern-warm yellows, palace vermilion, jade, moon-white silk.",
   "version": "0.0.1",
   "publisher": "mjnchen",
+  "license": "MIT",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.70.0"
   },
   "categories": ["Themes"],
+  "keywords": [
+    "theme",
+    "dark",
+    "dark-theme",
+    "color-theme",
+    "chinese",
+    "tang",
+    "warm",
+    "lantern"
+  ],
+  "galleryBanner": {
+    "color": "#1a1d2e",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/mjnchen/changan-night#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjnchen/changan-night.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mjnchen/changan-night/issues"
+  },
   "contributes": {
     "themes": [
       {

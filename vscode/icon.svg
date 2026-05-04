@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Chang'an Night marketplace icon: a Tang-style palace under the night sky.
+       Sky 黛 (dài) #1a1d2e — moon & gold tiles 杏黄 (xìnghuáng) #f4c860
+       — pillars 朱砂 (zhūshā) #c93f3f — architrave 朱红 (zhūhóng) #e85a4a — base 绛 (jiàng) #a04a64 -->
+
+  <!-- Night sky -->
+  <rect width="128" height="128" fill="#1a1d2e"/>
+
+  <!-- Moon (upper right) -->
+  <circle cx="102" cy="22" r="6.5" fill="#f4c860"/>
+
+  <!-- Platform base -->
+  <rect x="14" y="104" width="100" height="9" fill="#a04a64"/>
+
+  <!-- Pillars (3 cinnabar verticals) -->
+  <rect x="28" y="66" width="9" height="38" fill="#c93f3f"/>
+  <rect x="59.5" y="66" width="9" height="38" fill="#c93f3f"/>
+  <rect x="91" y="66" width="9" height="38" fill="#c93f3f"/>
+
+  <!-- Architrave (vermilion beam under roof) -->
+  <rect x="22" y="60" width="84" height="7" fill="#e85a4a"/>
+
+  <!-- Roof (solid gold tile slab with sweeping curled eaves) -->
+  <path d="
+    M 8 60
+    C 6 54 8 50 16 48
+    L 36 32
+    L 92 32
+    L 112 48
+    C 120 50 122 54 120 60
+    C 116 56 110 56 104 58
+    L 80 60
+    L 48 60
+    L 24 58
+    C 18 56 12 56 8 60
+    Z
+  " fill="#f4c860"/>
+
+  <!-- Ridge ornament (deeper gold horizontal cap on top of roof) -->
+  <rect x="34" y="28" width="60" height="5" fill="#d4a23f"/>
+  <!-- Ridge end finials (small darker squares at ridge tips) -->
+  <rect x="32" y="26" width="4" height="6" fill="#a04a64"/>
+  <rect x="92" y="26" width="4" height="6" fill="#a04a64"/>
+</svg>
